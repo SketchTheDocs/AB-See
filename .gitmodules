@@ -1,0 +1,3 @@
+[submodule "www/themes/hugo-swift-theme"]
+	path = www/themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
