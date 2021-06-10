@@ -93,6 +93,15 @@ $ hugo -D
  - Fixed DNS issue (baseUrl update)
  - Fixed side-menu absence (added designer.yml, menu.yml files in data/ folder)
  - Fixed Archives link error (two steps: create new posts in the `content/post` folder, add a `content/_index.md` placeholder)
+ - Fixed integrity issue (read below)
+
+
+INTEGRITY ISSUE:
+ * Using default theme results in an error as follows: "xxx has an integrity attribute, but the resource requires the request to be CORS enabled to check the integrity, and it is not. The resource has been blocked because the integrity cannot be enforced."
+ * See [this Stackoverflow message](https://stackoverflow.com/questions/35323268/how-to-solve-resource-requires-the-request-to-be-cors-enabled-resource-has-bee) to understand the cause - a CORS issue which requires `crossorigin="anonymous"` to be set alongside the integrity attribute.
+ * The fix should be in the theme itself (currently integrity checked in two partial templates - head and footer - one of which has the attribute and the other not)
+ * Will submit PR - in the meantime, created my copy of partial to override theme and fixed it there.
+
 
 ## Maintenance
 
