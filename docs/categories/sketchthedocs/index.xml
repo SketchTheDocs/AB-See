@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sketchthedocs on #ABSee | @SketchTheDocs</title>
+    <link>https://sketchnotes.dev/AB-See/categories/sketchthedocs/</link>
+    <description>Recent content in sketchthedocs on #ABSee | @SketchTheDocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-present, Nitya Narasimhan; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 09 Jun 2021 15:55:13 -0400</lastBuildDate><atom:link href="https://sketchnotes.dev/AB-See/categories/sketchthedocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About: #ABSee</title>
+      <link>https://sketchnotes.dev/AB-See/about/</link>
+      <pubDate>Wed, 09 Jun 2021 15:55:13 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/about/</guid>
+      <description>What is the ABSee project?
+ #ABSee is a @SketchTheDocs project that uses visual puzzles to build your tech IQ around concepts, products and people. It&amp;rsquo;s an experiment in game-based learning that airs as a weekly 5-minute segment on Hello World live.
+  This is the same figure as the banner, but with alt-text added for accessibility.
+  How does it work?
+    Want to see the concept in action?</description>
+    </item>
+    
+  </channel>
+</rss>

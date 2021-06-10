@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on #ABSee | @SketchTheDocs</title>
+    <link>https://sketchnotes.dev/AB-See/categories/</link>
+    <description>Recent content in Categories on #ABSee | @SketchTheDocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-present, Nitya Narasimhan; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 09 Jun 2021 17:21:04 -0400</lastBuildDate><atom:link href="https://sketchnotes.dev/AB-See/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>helloworld</title>
+      <link>https://sketchnotes.dev/AB-See/categories/helloworld/</link>
+      <pubDate>Wed, 09 Jun 2021 17:21:04 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/helloworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>m365</title>
+      <link>https://sketchnotes.dev/AB-See/categories/m365/</link>
+      <pubDate>Wed, 09 Jun 2021 15:56:36 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/m365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://sketchnotes.dev/AB-See/categories/mobile/</link>
+      <pubDate>Wed, 09 Jun 2021 15:56:36 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://sketchnotes.dev/AB-See/categories/azure/</link>
+      <pubDate>Wed, 09 Jun 2021 15:56:33 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mslearn</title>
+      <link>https://sketchnotes.dev/AB-See/categories/mslearn/</link>
+      <pubDate>Wed, 09 Jun 2021 15:56:28 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/mslearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketchthedocs</title>
+      <link>https://sketchnotes.dev/AB-See/categories/sketchthedocs/</link>
+      <pubDate>Wed, 09 Jun 2021 15:55:13 -0400</pubDate>
+      
+      <guid>https://sketchnotes.dev/AB-See/categories/sketchthedocs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
