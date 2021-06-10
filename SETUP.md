@@ -1,7 +1,7 @@
 # Under The Hood
 
  * Website build with the [Hugo](https://gohugo.io) static site generator.
- * Using the [Creative Portfolio](https://github.com/kishaningithub/hugo-creative-portfolio-theme) theme.
+ * Using the [hugo-swift-theme](https://github.com/onweru/hugo-swift-theme) theme.
  * Deployed to the [GitHub Pages](http://sketchthedocs.dev/AB-See) for this repo.
 
 I do the basic setup based on the default [Quickstart](https://gohugo.io/getting-started/quick-start/) guide. Here are the steps I followed for convenience.
@@ -31,7 +31,7 @@ Follow [theme directions](https://gohugo.io/getting-started/quick-start/#step-3-
 
 ```
 $ cd www
-$ git submodule add https://github.com/kishaningithub/hugo-creative-portfolio-theme.git themes/hugo-creative-portfolio-theme
+$ git submodule add it submodule add https://github.com/onweru/hugo-swift-theme.git themes/hugo-swift-theme
 
 ```
 ---
@@ -45,16 +45,16 @@ First, edit `www/config.toml` to specify theme.
 
 ```
 # Standard attributes 
-baseURL = "https://sketchnotes.dev/AB-See/"
+baseURL = "https://sketchthedocs.dev/AB-See/"
 languageCode = "en-us"
 title = "AB-See by @SketchTheDocs"
-theme = "hugo-creative-portfolio-theme"
+theme = "hugo-swift-theme"
 
 # Specify (new) Build directory
 publishdir = "../docs" 
 ```
 
-Finally, follow guidance from the [theme's website](https://github.com/kishaningithub/hugo-creative-portfolio-theme) for additional customization.
+Finally, follow guidance from the [theme's website](https://github.com/onweru/hugo-swift-theme) for additional customization.
 
 ---
 
@@ -67,7 +67,7 @@ $ cd www/
 $ hugo server -D
 ..
 ..
-Web Server is available at http://localhost:1313/visual-green-tech/ (bind address 127.0.0.1)
+Web Server is available at http://localhost:1313/AB-See/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
 
@@ -104,7 +104,7 @@ $ hugo new posts/xxxxx.md
 
 This generates a new file under the `content/posts` directory. If your local server was running, the changes should show up instantly in the browser (hot reload).
 
-The _newsroom_ theme assumes `static/images` to be the root for loading images. Anything placed in this directory can be referenced by name in METADATA (e.g., `image: test.png`) or by relative URL in the BODY (e.g., `/images/test.png`) of content posts.
+This theme assumes `static/images` to be the root for loading images. Anything placed in this directory can be referenced by name in METADATA (e.g., `image: test.png`) or by relative URL in the BODY (e.g., `/images/test.png`) of content posts.
 
 To build/deploy, the current process is manual. Simply run the command below to get the `docs/` target directory updated. Then commit the changes to GitHub, which will auto-refresh the static GH Pages deployment endpoint.
 

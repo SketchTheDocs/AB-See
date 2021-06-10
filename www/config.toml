@@ -1,4 +1,4 @@
-baseURL = "https://sketchnotes.dev/AB-See/"
+baseURL = "https://sketchthedocs.dev/AB-See/"
 languageCode = "en-us"
 title = "#ABSee | @SketchTheDocs"
 theme = "hugo-swift-theme"
