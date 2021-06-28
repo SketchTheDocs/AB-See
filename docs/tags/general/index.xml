@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>general on #ABSee | @SketchTheDocs</title>
-    <link>https://sketchthedocs.dev/AB-See/tags/general/</link>
+    <link>https://sketchthedocs.github.io/AB-See/tags/general/</link>
     <description>Recent content in general on #ABSee | @SketchTheDocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-present, Nitya Narasimhan; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 15:55:13 -0400</lastBuildDate><atom:link href="https://sketchthedocs.dev/AB-See/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 15:55:13 -0400</lastBuildDate><atom:link href="https://sketchthedocs.github.io/AB-See/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About: #ABSee</title>
-      <link>https://sketchthedocs.dev/AB-See/about/</link>
+      <link>https://sketchthedocs.github.io/AB-See/about/</link>
       <pubDate>Wed, 09 Jun 2021 15:55:13 -0400</pubDate>
       
-      <guid>https://sketchthedocs.dev/AB-See/about/</guid>
+      <guid>https://sketchthedocs.github.io/AB-See/about/</guid>
       <description>What is the ABSee project?
  #ABSee is a @SketchTheDocs project that uses visual puzzles to build your tech IQ around concepts, products and people. It&amp;rsquo;s an experiment in game-based learning that airs as a weekly 5-minute segment on Hello World live.
   This is the same figure as the banner, but with alt-text added for accessibility.
@@ -23,10 +23,10 @@
     
     <item>
       <title>About: #HelloWorldLive</title>
-      <link>https://sketchthedocs.dev/AB-See/helloworld/about/</link>
+      <link>https://sketchthedocs.github.io/AB-See/helloworld/about/</link>
       <pubDate>Wed, 09 Jun 2021 15:55:13 -0400</pubDate>
       
-      <guid>https://sketchthedocs.dev/AB-See/helloworld/about/</guid>
+      <guid>https://sketchthedocs.github.io/AB-See/helloworld/about/</guid>
       <description>Hello World is a live 30-min news &amp;amp; edutainment show broadcast weekdays on Microsoft&amp;rsquo;s Learn TV. The A-B-See segment is a regular feature on the Thursday edition of the show, where I serve a dual role - as co-host (for the show) and producer (for the segment).
 You can find the show episodes along with show notes and other resources, on Channel 9 at https://aka.ms/helloworld. This site provides offsets for each segment - so if you have a favorite segment (cough ABSee *cough) you can zoom straight to that part of the show to catch up.</description>
     </item>
